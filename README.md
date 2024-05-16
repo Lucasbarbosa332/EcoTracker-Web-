@@ -10,7 +10,7 @@ economizar, com base nisso eu crie a EcoTracker uma calculadora ecologica que te
 
 <br/>
 
-<img width=100% src=""></img>
+<img width=100% src="https://github.com/Lucasbarbosa332/EcoTracker-Web-/blob/main/EcoTracker/mg/Captura%20de%20tela_16-5-2024_12237_127.0.0.1.jpeg"></img>
 
 <br/>
 
