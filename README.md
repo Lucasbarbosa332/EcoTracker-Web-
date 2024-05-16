@@ -1,11 +1,12 @@
 # EcoTracker Web
 ## Lucas barbosa
  
-<h3 align='center'> 💻 Quem é Lucas silva ? </h3>
+<h3 align='center'> ♻ Vamos economizar ernegia e água ?</h3>
 
-## 💻 Contexto
+## ♻ Contexto
 
-** Ola gosraia de compartilhar com voces o meu blog pessoal que contem algumas imformaçãoes sobre mim.
+** Muitas das vezes no final do mes nossas contas de luz e agua estão la nas alturas porque não conseguimos 
+economizar, com base nisso eu crie a EcoTracker uma calculadora ecologica que te ajuda a calcular os gastos por mes!
 
 <br/>
 
